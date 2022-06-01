@@ -244,7 +244,7 @@ export default {
           sortable: false
         },
         {
-          label: this.$t("Customer"),
+          label: this.$t("Customers"),
           field: "client_name",
           tdClass: "gull-border-none text-left",
           thClass: "text-left",
